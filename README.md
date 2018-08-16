@@ -1,7 +1,7 @@
 # notekeeper
 The NoteKeeper Android app built through the Android Associate Developer courses on Pluralsight.
 
-STATUS: On Course 3 of 7. Adding Navigation Drawer and RecyclerView.
+STATUS: On Course 3 of 7. Changing styles and themes.
 
 Credit to Jim Wilson for the starter code and Pluralsight lessons.
 
